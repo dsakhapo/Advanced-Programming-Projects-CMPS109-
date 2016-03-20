@@ -2,7 +2,7 @@
 This repository contains all the projects from CMPS109.
 
 This course was comprised of 5 projects that were meant to teach us about the features of C++ as well as topics like OpenGL
-or sockets. The projects were as follows:
+and sockets. The projects were as follows:
 
 Program-1, a calculator in the style of dc(1),introducing memory management, avoidance of leak, and operator overloading.
 Program-2, a simulated shell, introducing iostream, inheritance, and function pointers.  
